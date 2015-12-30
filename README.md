@@ -86,3 +86,6 @@ For anyone else, not for me :)
 
 ## [JSON Resume](http://jsonresume.org/)
 - json
+
+## [markdown-resume](https://github.com/there4/markdown-resume)
+- markdown

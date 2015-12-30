@@ -81,3 +81,8 @@ For anyone else, not for me :)
 
 ## [Who is hiring](https://whoishiring.io/#!/)
 - job, map
+
+# Resume
+
+## [JSON Resume](http://jsonresume.org/)
+- json

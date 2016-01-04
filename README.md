@@ -89,3 +89,6 @@ For anyone else, not for me :)
 
 ## [markdown-resume](https://github.com/there4/markdown-resume)
 - markdown
+
+## [Github resume](https://github.com/resume/resume.github.com)
+- github

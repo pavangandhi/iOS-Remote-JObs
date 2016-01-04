@@ -92,3 +92,13 @@ For anyone else, not for me :)
 
 ## [Github resume](https://github.com/resume/resume.github.com)
 - github
+
+# Contract
+
+## [freelance-contract](https://github.com/ashedryden/freelance-contract)
+- freelance
+
+# Interview
+
+## [Interview](http://www.fantageek.com/blog/2015/01/16/interview/)
+- interviewer, interviewee

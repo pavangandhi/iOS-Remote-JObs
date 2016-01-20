@@ -17,7 +17,7 @@ For anyone else, not for me :)
 ## [We work remotely](https://weworkremotely.com/)
 - remote
 
-## [Hacker News Who 's hiring](https://news.ycombinator.com/item?id=7324236)
+## [Hacker News Who 's hiring](https://news.ycombinator.com/item?id=10822019)
 - onsite, sponsor
 
 ## [Core Intuition Jobs](http://jobs.coreint.org/)

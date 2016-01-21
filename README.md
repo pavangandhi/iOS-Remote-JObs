@@ -105,3 +105,6 @@ For anyone else, not for me :)
 
 ## [Interview](http://www.fantageek.com/blog/2015/01/16/interview/)
 - interviewer, interviewee
+
+## [interview-prep](https://github.com/ride/interview-prep)
+- interview, tips, preparation

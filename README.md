@@ -53,7 +53,7 @@ For anyone else, not for me :)
 ## [CocoaHeadsNL](http://jobs.cocoaheads.nl/)
 - ios
 
-## [Slack @ Work](http://jobs.cocoaheads.nl/)
+## [Slack @ Work](http://slackatwork.com/)
 - job
 
 ## [Authentic](https://authenticjobs.com/)

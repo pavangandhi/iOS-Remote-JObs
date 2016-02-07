@@ -103,8 +103,12 @@ For anyone else, not for me :)
 
 # Interview
 
-## [Interview](http://www.fantageek.com/blog/2015/01/16/interview/)
+## [Best interview articles](http://www.fantageek.com/blog/2015/01/16/interview/)
 - interviewer, interviewee
 
 ## [interview-prep](https://github.com/ride/interview-prep)
 - interview, tips, preparation
+
+# Reading
+
+- [8-minute resume: my guide to writing your resume effectively](https://rooting-for-you.cenedella.com/8-minute-resume-my-guide-to-writing-your-resume-effectively-3b0b117d94a#.rxfb6rbae)

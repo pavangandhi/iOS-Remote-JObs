@@ -6,7 +6,6 @@ For anyone else, not for me :)
 
 # Contents
 
-- [Contents](#contents)
 - [Boards](#boards)
 - [Agency](#agency)
 - [Misc](#misc)

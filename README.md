@@ -78,6 +78,7 @@ For anyone else, not for me :)
 - [SellsBrother interview](http://www.sellsbrothers.com/interview)
 - [Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent](http://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
 - [How to get a job at Atlassian – An insider’s perspective](http://blogs.atlassian.com/2010/11/how_to_get_a_job_at_atlassian_an_insiders_perspective/)
+- [Not another Android Interviews’ article: Think it through](https://medium.com/@neteinstein/not-another-android-interviews-article-think-it-through-7b6554bc23db#.7ps740ydd)
 
 ## Resume
 

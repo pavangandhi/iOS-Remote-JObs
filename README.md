@@ -83,3 +83,7 @@ For anyone else, not for me :)
 ## Resume
 
 - [8-minute resume: my guide to writing your resume effectively](https://rooting-for-you.cenedella.com/8-minute-resume-my-guide-to-writing-your-resume-effectively-3b0b117d94a#.rxfb6rbae)
+
+Licence
+--
+This project is released under the MIT license. See LICENSE.md.
